@@ -1,0 +1,7 @@
+>>>>title of tab 1
+first query here
+>>>>title of tab 2
+second query here
+>>>>title of tab 3
+third query here
+>>>>
